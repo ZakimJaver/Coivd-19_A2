@@ -21,6 +21,6 @@ This app is built to inform users of COVID-19 statistics as well as how to preve
 
 ![alt text](https://github.com/ZakimJaver/Coivd-19_A2/blob/main/IMG_0085.jpg)
 
-<h2>Video Link</h2>
+<h2>Video Domo Link</h2>
 
 (https://github.com/ZakimJaver/Coivd-19_A2/blob/main/Screen%20Recording%202020-11-12%20at%2010.32.18%20PM.mov)
