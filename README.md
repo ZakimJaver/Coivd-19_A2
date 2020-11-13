@@ -15,3 +15,8 @@ This app is built to inform users of COVID-19 statistics as well as how to preve
 * Get in touch 
 
 * Emergency request (help)
+
+
+<h2>UI Screenshot</h2>
+
+![alt text](https://github.com/ZakimJaver/Coivd-19_A2/blob/main/IMG_0085.jpg)
